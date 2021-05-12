@@ -1,8 +1,8 @@
 # zio-spark
 
-| CI | Release | Snapshot | Discord |
-| --- | --- | --- | --- |
-| ![CI][Badge-CI] | [![Release Artifacts][Badge-SonatypeReleases]][Link-SonatypeReleases] | [![Snapshot Artifacts][Badge-SonatypeSnapshots]][Link-SonatypeSnapshots] | [![Badge-Discord]][Link-Discord] |
+| Project Stage | CI | Release | Snapshot | Discord |
+| --- | --- | --- | --- | --- |
+| [![Project stage][Stage]][Stage-Page] | ![CI][Badge-CI] | [![Release Artifacts][Badge-SonatypeReleases]][Link-SonatypeReleases] | [![Snapshot Artifacts][Badge-SonatypeSnapshots]][Link-SonatypeSnapshots] | [![Badge-Discord]][Link-Discord] |
 
 # Summary
 
@@ -35,5 +35,6 @@ Come chat with us on [![Badge-Discord]][Link-Discord].
 [Link-SonatypeSnapshots]: https://oss.sonatype.org/content/repositories/snapshots/dev/zio/zio-spark_2.13.5/ "Sonatype Snapshots"
 [Link-Discord]: https://discord.com/invite/2ccFBr4 "Discord"
 [Badge-CI]: https://github.com/zio/zio-spark/workflows/CI/badge.svg
-
+[Stage]: https://img.shields.io/badge/Project%20Stage-Concept-red.svg
+[Stage-Page]: https://github.com/zio/zio/wiki/Project-Stages
 
